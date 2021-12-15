@@ -7,15 +7,15 @@
 
 <h1> 👺👈| about me !</h1>
             <h2> o tralha da cvc 🥋🇦🇱, black hat from shoper<h2>
-<h3> Known as KY0T4K <h3>
+<h3> Known as KY0T4K AND S1MPL3K1LL <h3>
 <blockquote>
   <ul>
     <li> Tenho 17 anos </li>
-    <li> Atualmente tenho 1,83 ... </li>
+    <li> Atualmente estudo R 💤 </li>
     <li> Conheci a programação com 8 anos ... </li>
     <li> comecei a programar com 9 anos porém tive que dar um tempo pois eu estava ficando muito tóxico.</li>
     <li> gosto muito de animes, preferidos (kenja no mago, koi to uso, tsuki ga kirei) </li>
-        <li> gosto de todo tipo de música mas odeio com ódio (kpop, "FUNK")
+        <li> gosto muito do gênero musical Lo-fi mas evito (kpop, "FUNK"☁️)
   </ul>
     Agora vou falar sobre as linguagens que eu sei :<
 </p>
